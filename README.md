@@ -1,6 +1,6 @@
 # 👋 Niroj Karki
 
-**Information Management | Data Analytics | Programme Monitoring | Technology 4 Ddevelopment**  
+**Technology 4 Development | Information Management | Data Analytics | Programme Monitoring **  
 
 I am an Information Management professional with 12+ years of experience supporting humanitarian and development programmes, currently working with UNICEF Nepal. My work focuses on strengthening **digital public goods, data systems, and Technology for Development (T4D)** to enable evidence-based decision-making and scalable programme impact.
 
